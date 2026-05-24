@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whgojp&show_icons=true&theme=tokyonight&line_height=27&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whgojp&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=whgojp&show_icons=true&theme=tokyonight&line_height=27&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whgojp&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/whgojp/count.svg" alt="Profile Views">
+  <img src="https://profile-counter.deno.dev/whgojp/count.svg" alt="Profile Views" />
 </p>
 
 ---
