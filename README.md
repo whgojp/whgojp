@@ -1,26 +1,40 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whgojp&show_icons=true&theme=tokyonight&line_height=27&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whgojp&layout=compact&theme=tokyonight" />
-</p>
+<h1 align="center">Hi, I'm whgojp</h1>
 
 <p align="center">
-  <img src="https://profile-counter.deno.dev/whgojp/count.svg" alt="Profile Views" />
+  <b>Security Engineer focused on Business Security and Threat Intelligence</b>
 </p>
+
+
+<p align="center">
+  <a href="mailto:whgojp@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-whgojp%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=whgojp&style=flat-square&color=0e75b6" alt="Profile Views" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=whgojp&theme=github_dark" alt="GitHub Profile Stats" />
+</p>
+
 
 ---
 
-👋 你好！我是**今天是几号**，目前在做**业务安全**。热衷于探索并发布开源项目，分享在安全领域的研究与实践经验。
+### About
 
-📖 欢迎访问我的CSDN博客：[今天是几号](https://blog.csdn.net/weixin_53009585)，佛系分享一些安全内容。
+- Business security, threat intelligence, risk detection, and anti-fraud.
+- Vulnerability research, code auditing, secure coding, and open-source security tooling.
 
-🌟 **主要项目**：
-- **JavaSecLab** - 一款综合型Java漏洞平台，提供漏洞缺陷代码、修复代码和审计场景……
-- **DumpAll-Go** - 一款信息泄漏利用工具，适用于.git/.svn/.DS_Store泄漏和目录列出(dumpall Golang重构版)
+### Projects
 
-🎯 **兴趣领域**：
-- 应用安全与开发安全
-- 漏洞挖掘与代码审计
-- 业务安全与威胁情报分析
+| Project                                            | Description                                                  |
+| -------------------------------------------------- | ------------------------------------------------------------ |
+| [JavaSecLab](https://github.com/whgojp/JavaSecLab) | Java vulnerability lab with vulnerable code, fixes, and audit scenarios. |
+| [DumpAll-Go](https://github.com/whgojp/DumpAll-Go) | Go tool for `.git`, `.svn`, `.DS_Store`, and directory listing leaks. |
 
 ---
+
+<p align="center">
+  <sub>Business Security · Threat Intelligence · Open Source Security</sub>
+</p>
 
